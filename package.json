@@ -1,0 +1,15 @@
+{
+    "name": "theme-eye-green",
+    "version": "0.1.0",
+    "publisher": "GV",
+    "engines": {
+        "vscode": "*"
+    },
+    "contributes": {
+        "themes": [{
+            "label": "eye-green",
+            "uiTheme": "vs",
+            "path": "./themes/eye-green-color-theme.json"
+        }]
+    }
+}
